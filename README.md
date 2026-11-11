@@ -1,7 +1,7 @@
 PROYECTO PAG WEB ROPA 
-URL DEL REPOSITORIO:   https://genekristi.github.io/portafolio_ecommerce_ropa/ 
+URL DEL REPOSITORIO:GENEKRISTI/portafolio_ecommerce_ropa   
 
-URL DE GITHUB PAGES: GENEKRISTI/portafolio_ecommerce_ropa 
+URL DE GITHUB PAGES: https://genekristi.github.io/portafolio_ecommerce_ropa/ 
 
 URL DE VERCEL: portafolioecommerceropa.vercel.app 
  
