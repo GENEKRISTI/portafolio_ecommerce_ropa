@@ -58,11 +58,15 @@ B. Publicación en Vercel
 
 
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/c0fcaab5-99a7-4c94-9615-0577a5e6b315" />
+
 <img width="831" height="467" alt="image" src="https://github.com/user-attachments/assets/7e85c894-a4c4-4180-a0a3-23d959bcda0f" />
+
+<img width="779" height="443" alt="image" src="https://github.com/user-attachments/assets/c1c1c326-d2f7-4abf-bed9-9a1cd82c53f8" />
+
+
 
 <img width="369" height="292" alt="image" src="https://github.com/user-attachments/assets/436c0e80-f20a-44d6-9b25-b5f342bca823" />
 
-<img width="779" height="443" alt="image" src="https://github.com/user-attachments/assets/c1c1c326-d2f7-4abf-bed9-9a1cd82c53f8" />
 
 
  
