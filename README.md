@@ -36,6 +36,7 @@ AtelierGenesis_1920s/
 
 
 <img width="783" height="440" alt="image" src="https://github.com/user-attachments/assets/64531e7f-cde0-47aa-a975-943b6812c6cf" />
+<img width="779" height="438" alt="image" src="https://github.com/user-attachments/assets/3382206b-ee1f-4e85-8173-a5e1d3025845" />
 
 
 
@@ -55,9 +56,6 @@ B. Publicación en Vercel
 
 
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/c0fcaab5-99a7-4c94-9615-0577a5e6b315" />
-
-
-<img width="779" height="438" alt="image" src="https://github.com/user-attachments/assets/3382206b-ee1f-4e85-8173-a5e1d3025845" />
 
 <img width="831" height="467" alt="image" src="https://github.com/user-attachments/assets/7e85c894-a4c4-4180-a0a3-23d959bcda0f" />
 
